@@ -18,7 +18,7 @@ github_username:  lfjd05
 gems: [jekyll-paginate]
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
